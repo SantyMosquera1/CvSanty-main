@@ -269,7 +269,7 @@ html{
     font-size: 20px;
     font-weight: normal;
     display: block;
-    margin-bottom: 10px;
+    margin-bottom: 26px;
 }
 
 .habilidades .habilidad > span img{
@@ -298,15 +298,15 @@ html{
 
 .habilidades .habilidad .barra-habilidad span{
     position: absolute;
-    height: 40px;
-    width: 40px;
+    height: 34px;
+    width: 34px;
     background-color: #7d8a9a;
-    border-radius: 50px;
-    line-height: 40px;
+    border-radius: 50%;
+    line-height: 34px;
     text-align: center;
-    top: -17px;
-    right: -15px;
-    font-size: 14px;
+    top: -13px;
+    right: -17px;
+    font-size: 13px;
 }
 
 .habilidades .habilidad .java{
