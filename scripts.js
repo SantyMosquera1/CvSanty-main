@@ -36,6 +36,7 @@ function efectoHabilidades() {
         skills[10].classList.add("iniciativa");
         skills[11].classList.add("organizado");
         skills[12].classList.add("empatia");
+        skills[13].classList.add("orgProyc");
     }
 }
 
